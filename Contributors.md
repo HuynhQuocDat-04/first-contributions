@@ -1130,3 +1130,5 @@
 - [psrdotcom](https://github.com/psrdotcom)
 - [DJG300](https://github.com/DJG300)
  Tran Thanh Tai
+- [Huỳnh Quốc Đạt](https://github.com/HuynhQuocDat-04)
+
